@@ -16,6 +16,7 @@ I see myself as the "Guardian" of the codebase 🛡️✨. My goal is to build a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-lukash)
 
 ---
+
 ### 💻 Tech Stack & Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
